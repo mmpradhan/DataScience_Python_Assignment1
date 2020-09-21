@@ -1,0 +1,64 @@
+### Question No.:-1 ###
+howdy="I'm doing fine"
+print(howdy)
+
+### Question No.:-2 ###
+howdy="I'm doing fine"
+print(howdy)
+howdy="Its good here but not better"
+print(howdy)
+
+### Question No.:-3 ###
+name="Eric"
+print(f'"Hello {name}, would you like to learn some Python today?"')
+
+### Question No.:-4 ###
+quotes='"Its not the lie that bothers me,but the insult to my intelligence."'
+print(f"Anonymous once said, {quotes}")
+
+### Question No.:-5 ###
+famous_person="Anonymous"
+quotes='"Its not the lie that bothers me,but the insult to my intelligence."'
+message=f"Anonymous once said, {quotes}"
+print(message)
+
+### Question No.:-6 ###
+print(5+3)
+print(10-2)
+print(4*2)
+print(int(16/2))
+
+### Question No.:-7 ###
+DOB=11
+print("My date of Birth :-",DOB)
+
+### Question No.:-8 ###
+###Addition##
+print(5+3)
+###Substraction###
+print(10-2)
+###Multiplication###
+print(4*2)
+###Division###
+print(int(16/2))
+
+### Question No.:-9 ###
+i=0
+names=["Rohan","Sanjay","Anurag","Arvind"]
+while(i<4):
+   print(names[i])
+   i=i+1
+
+### Question No.:-10 ###
+i=0
+names=["Rohan","Sanjay","Anurag","Arvind"]
+while(i<4):
+   print("Hello",names[i],"How are you doing?")
+   i=i+1
+
+### Question No.:-11 ###
+vehicles=["Harly","Jeep","Flight","Uber"]
+messages=f"I always wanna to drive my {vehicles[0]} but as its long distance," \
+         f"i took {vehicles[2]} instead of {vehicles[1]} and then travelled with {vehicles[3]}. "
+print(messages)
+
